@@ -12,5 +12,4 @@ sample_hash = {
    }
 }
 puts sample_hash.fetch(:class).fetch(:student).fetch("marks").fetch("history")
-#puts sample_hash.fetch(:class).fetch(:student).fetch(:name).fetch("marks")
 
